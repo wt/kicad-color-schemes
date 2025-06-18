@@ -17,7 +17,7 @@
     "erc_error": "rgb(220, 50, 47)",
     "erc_warning": "rgb(220, 50, 47)",
     "fields": "rgb(88, 110, 117)",
-    "grid": "rgb(147, 161, 161)",
+    "grid": "rgba(147, 161, 161, 0.300)",
     "grid_axes": "rgb(108, 113, 196)",
     "hidden": "rgb(42, 161, 152)",
     "junction": "rgb(133, 153, 0)",
